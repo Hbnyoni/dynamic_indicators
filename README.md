@@ -1,2 +1,2 @@
-# dynamic_indicators
-Dynamic indicators for CHEAQI project
+# pals
+It contains the monthly exposures code
